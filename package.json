@@ -1,7 +1,7 @@
 {
   "name": "cyber-blog",
   "version": "1.0.0",
-  "homepage": "https://www.yecaiyu.cn",
+  "homepage": "https://yecaiyu.cn",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   "author": {
     "name": "yecaiyu",
     "email": "yecaiyu@foxmail.com",
-    "url": "http://www.yecaiyu.cn"
+    "url": "http://yecaiyu.cn"
   },
   "scripts": {
     "dev": "next dev",

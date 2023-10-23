@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://www.yecaiyu.cn' }
+    { title: '欢迎来到我的博客', url: 'https://yecaiyu.cn' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -14,7 +14,7 @@ const CONFIG = {
   HERO_TITLE_3: 'YECAIYU.CN',
   HERO_TITLE_4: '篮球少年',
   HERO_TITLE_5: '练习时长两年半',
-  HERO_TITLE_LINK: 'https://www.yecaiyu.cn',
+  HERO_TITLE_LINK: 'https://yecaiyu.cn',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
